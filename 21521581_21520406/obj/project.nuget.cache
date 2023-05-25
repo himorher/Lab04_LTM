@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "674Bhe/XG3vXj89BaV/nDvofHXbO2MB7FLiQT0k1YHXZ9meC3c2z2A8EBsmYN5VsVRViTTV6sPBgk+UnvAXDmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Lab04_LTM\\21521581_21520406\\Lab04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRINH\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\TRINH\\.nuget\\packages\\microsoft.web.webview2\\1.0.1774.30\\microsoft.web.webview2.1.0.1774.30.nupkg.sha512"
+  ],
+  "logs": []
+}
